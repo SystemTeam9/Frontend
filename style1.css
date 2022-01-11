@@ -6,49 +6,57 @@ body{
     background-color: whitesmoke;
 }
 
-.textlines{
-    border: 4px solid #CDCDCD;
-    position: absolute;
-    top: 80px;
+.DeepL{
+    position:absolute;
+    top: 40px;
     left: 100px;
 }
 
-.textlines1{
-    border: 4px solid #00BFFF;
-    position: absolute;
-    top: 80px;
-    left: 900px;
-}
-
-.textlines2{
-    border: 4px solid #CDCDCD;
-    position: absolute;
-    top: 270px;
+.Google{
+    position:absolute;
+    top: 280px;
     left: 100px;
 }
 
-.textlines3{
-    border: 4px solid #00BFFF;
-    position: absolute;
-    top: 270px;
-    left: 900px;
-}
-
-.textlines4{
+.Atextlines{
     border: 4px solid #CDCDCD;
     position: absolute;
-    top: 460px;
+    top: 110px;
     left: 100px;
 }
 
-.textlines5{
+.Atextlines1{
     border: 4px solid #00BFFF;
     position: absolute;
-    top: 460px;
+    top: 110px;
     left: 900px;
 }
 
+.Atextlines2{
+    border: 4px solid #CDCDCD;
+    position: absolute;
+    top: 350px;
+    left: 100px;
+}
 
+.Atextlines3{
+    border: 4px solid #00BFFF;
+    position: absolute;
+    top: 350px;
+    left: 900px;
+}
+
+.yazi1{
+    position:absolute;
+    top: 130px;
+    left: 750px;
+}
+
+.yazi2{
+    position:absolute;
+    top: 370px;
+    left: 750px;
+}
 
 
 

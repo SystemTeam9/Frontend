@@ -21,26 +21,26 @@ body{
 .textlines1{
     border: 4px solid #00BFFF;
     position: relative;
-    top: -105px;
-    left: 900px;
+    top: 50px;
+    left: 300px;
 }
 
 .yazi{
     position:relative;
-    top: -270px;
-    left: 750px;
+    top: 30px;
+    left: -380px;
 }
 
 .trash{
     position:relative;
-    top: -350px;
-    left: 1330px;
+    top: -50px;
+    left: 175px;
 }
 
 .button{
     position:relative;
-    top: -100px;
-    left: 500px;
+    top: 50px;
+    left: 600px;
 }
 
 .switchArea {
